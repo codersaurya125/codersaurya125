@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codersaurya125
-- 👀 I’m interested in Web developing.
-- 🌱 I’m currently learning JAVA SCRIPT
+- 👀 I’m interested in Web developing, game developing, software Devloping.
+- 🌱 I’m currently learning GAVE DEV
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Insatagram:sauryabikrambisht64 Email: saurya.coder@gmail.com
 
